@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GSTAssist</string>
+    <string name="scan">Scan VIN</string>
+</resources>
